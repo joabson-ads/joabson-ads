@@ -4,10 +4,9 @@
 Automação Web | Git e GitHub Lógica de Programação |Manipulação de dados com CSV**  
 🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+Tenho experiência prática com Suporte Técnico, Redes, Telecomunicações e resolução de problemas, buscando sempre aplicar a tecnologia para tornar processos mais eficientes.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+Atualmente, desenvolvo projetos e amplio meus conhecimentos em Python, Selenium, automação web, manipulação de dados, Git e GitHub, com foco em evoluir profissionalmente na área de Desenvolvimento de Sistemas. 🚀
 
 ---
 
